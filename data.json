@@ -1,0 +1,75 @@
+{
+  "settings": {
+    "brand": "Maya Digital Studio",
+    "email": "joydas153511@gmail.com",
+    "phone": "01927679203",
+    "whatsapp": "8801927679203",
+    "location": "Bangladesh \u00b7 Working Worldwide"
+  },
+  "services": [
+    {
+      "title": "WordPress Development",
+      "description": "Fast, responsive business websites, landing pages, Elementor builds, WooCommerce and custom WordPress solutions.",
+      "icon": "WP"
+    },
+    {
+      "title": "Web Design & Coding",
+      "description": "Modern UI, clean HTML/CSS/JS and responsive interfaces designed around your brand and customer journey.",
+      "icon": "</>"
+    },
+    {
+      "title": "SEO & Marketing",
+      "description": "Technical SEO, on-page optimization, local SEO, content strategy and campaigns focused on measurable growth.",
+      "icon": "SEO"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Northline Creative",
+      "type": "Agency website \u00b7 WordPress",
+      "theme": "blue"
+    },
+    {
+      "title": "Pure Balance",
+      "type": "Wellness brand \u00b7 Custom design",
+      "theme": "yellow"
+    },
+    {
+      "title": "Bloom Commerce",
+      "type": "Online store \u00b7 SEO",
+      "theme": "green"
+    },
+    {
+      "title": "Local Pro Services",
+      "type": "Local SEO \u00b7 Landing Pages",
+      "theme": "yellow"
+    },
+    {
+      "title": "Studio Portfolio",
+      "type": "Custom HTML \u00b7 CSS \u00b7 JavaScript",
+      "theme": "blue"
+    },
+    {
+      "title": "Service Growth Site",
+      "type": "WordPress \u00b7 Content \u00b7 Analytics",
+      "theme": "green"
+    }
+  ],
+  "posts": [
+    {
+      "title": "7 things to check before launching a WordPress website",
+      "category": "WORDPRESS",
+      "excerpt": "Performance, mobile UX, forms, security and SEO checks that are easy to miss."
+    },
+    {
+      "title": "Why your website gets traffic but not enough leads",
+      "category": "SEO",
+      "excerpt": "A practical look at intent, page structure, offers and conversion paths."
+    },
+    {
+      "title": "How to design a homepage that explains your business fast",
+      "category": "WEB DESIGN",
+      "excerpt": "The sections, hierarchy and calls-to-action that help visitors understand what you do."
+    }
+  ]
+}
